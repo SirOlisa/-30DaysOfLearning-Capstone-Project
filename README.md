@@ -45,6 +45,7 @@ Some locations were more specific than others, hence I split the locations colum
 A hunderd years of data might be too much to assimilate for moat people so I created a new date table in PowerQuery and created a hierarchy showing dates from decades, to years, to months, to dates
 
 This in addition to numerous changing of datatypes, filling of null or empty values, aggregation of similar data, creating new columns, data modelling etc were the transformations done on the dataset 
+
 ----
 # Data Visualization
  After cleaning, the data was ready for visualization and I managed to create a highly interactive dashboard to summarize most of it 
